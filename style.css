@@ -1,0 +1,22 @@
+h1 {
+color: blueviolet;
+font-size: 18pt;
+}
+.druhyLorem {
+width: 800px;
+border: 2px dashed #3c671f;
+word-wrap: break-word;
+color: #3c671f;
+}
+img {
+    width: 15%;
+    border: 3px solid #3c671f;
+}
+.delej{
+    width: 20%;
+    border: 8px dashed #8c671f;
+}
+table {
+    color: aqua;
+    border: 4px groove color-mix(in srgb, red 50%, blue 50%);
+}
